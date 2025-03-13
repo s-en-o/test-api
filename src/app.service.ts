@@ -57,7 +57,7 @@ export class AppService {
         id: 4,
         title: 'Not Cool Jobs',
         company: 'Not Cool company',
-        location: 'Timaru',
+        location: 'Not Cool City',
         category: 'Infrastructure',
         features: ['Full training provided', 'Career growth opportunities'],
         featured: true,
